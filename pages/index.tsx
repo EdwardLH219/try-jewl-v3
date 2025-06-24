@@ -66,12 +66,14 @@ export default function Home() {
       <div className="section-light min-h-[800px] flex items-center">
         <div className="container">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="gradient-text mb-8">
+            <h2 className="gradient-text mb-8">
               Looking for a needle<br className="block sm:hidden" /> in a haystack?
-            </h1>
-            <p className="text-xl text-gray-600 mb-16">
+            </h2>
+            <p className="text-xl text-gray-600 my-8">
               Get your exact info instantly<br className="block sm:hidden" /> using simple messaging apps
             </p>
+            
+            <h2 className="gradient-text mb-8">Start Now!</h2>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a 
