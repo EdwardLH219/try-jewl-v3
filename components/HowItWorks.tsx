@@ -80,7 +80,7 @@ export default function HowItWorks() {
           </div>
 
           <p className="text-xl text-gray-600 text-center mb-12">
-            Store and retrieve important info<span className="hidden sm:inline">,</span><br className="block sm:hidden" /> here some ideas…
+            Store and retrieve important info<span className="hidden sm:inline">,</span><br className="block sm:hidden" /> here some ideas ...
           </p>
 
           <div className="max-w-3xl mx-auto">
@@ -103,7 +103,7 @@ export default function HowItWorks() {
               </div>
               <div className="flex justify-center">
                 <div className="bg-white rounded-[18px] rounded-tl-sm p-6 relative min-h-[80px] flex flex-col justify-center max-w-[500px] w-full shadow-sm">
-                  <p className="text-lg text-gray-900">Show the May pay receipt from Ben</p>
+                  <p className="text-lg text-gray-900">Store my New York flight ref # PBWJLN</p>
                   <p className="text-xs text-gray-500 text-right absolute bottom-4 right-6">
                     {currentTime} <img src="/icons/blueTicks.png" alt="Read" className="inline-block h-3.5 ml-0.5" />
                   </p>
